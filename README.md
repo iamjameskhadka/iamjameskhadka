@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
 
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=50&color=ff69b4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+James+Khadka!;+A+BSc.CSIT+Student;+And+a+Football+Lover" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=50&color=ff69b4&center=true&vCenter=true&width=500&height=65&duration=4000&lines=Hi+There!+👋;+I'm+James+Khadka!;+A+BSc.CSIT+Student;+And+a+Football+Lover" />
 </h1>
 
 <h3 align="center">A passionate Front End developer from Nepal</h3>
