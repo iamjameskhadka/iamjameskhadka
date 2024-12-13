@@ -68,7 +68,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
- <a href="https://git.io/streak-stats"><img width="443"  src="https://streak-stats.demolab.com?user=iamjameskhadka&theme=panda" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iamjameskhadka&theme=panda&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <img width="410"  src="https://github-readme-stats.vercel.app/api?username=iamjameskhadka&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/> <br/>
   <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjameskhadka&hide=HTML&langs_count=8&layout=compact&theme=panda&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
