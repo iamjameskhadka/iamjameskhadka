@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React JS, Tailwind CSS, Bootstrap**
 
-💬 Ask me about **React, Tailwind... or anything [here](https://github.com/JamesKhadka/JamesKhadka/issues)**
+💬 Ask me about **React, Tailwind... or anything [here](https://github.com/iamjameskhadka/iamjameskhadka/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
