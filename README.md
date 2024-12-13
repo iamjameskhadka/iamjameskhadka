@@ -47,7 +47,7 @@
 <div align="center">
   <h2 >🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JamesKhadka/JamesKhadka/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iamjameskhadka/iamjameskhadka/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -58,7 +58,7 @@
 <h2>🏆 GitHub Trophies</h2> 
 <br><br>
 
-![](https://github-profile-trophy.vercel.app/?username=JamesKhadka&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
+![](https://github-profile-trophy.vercel.app/?username=iamjameskhadka&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
   <br/><br/><br/>
 
@@ -68,10 +68,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
- <a href="https://git.io/streak-stats"><img width="443"  src="https://streak-stats.demolab.com?user=JamesKhadka&theme=panda" alt="GitHub Streak" /></a>
-  <img width="410"  src="https://github-readme-stats.vercel.app/api?username=JamesKhadka&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10" alt="readme stats" />
+ <a href="https://git.io/streak-stats"><img width="443"  src="https://streak-stats.demolab.com?user=iamjameskhadka&theme=panda" alt="GitHub Streak" /></a>
+  <img width="410"  src="https://github-readme-stats.vercel.app/api?username=iamjameskhadka&count_private=true&show_icons=true&theme=panda&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/> <br/>
-  <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesKhadka&hide=HTML&langs_count=8&layout=compact&theme=panda&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjameskhadka&hide=HTML&langs_count=8&layout=compact&theme=panda&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
