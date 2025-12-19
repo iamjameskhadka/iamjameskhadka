@@ -25,7 +25,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/james-khadka-26b100236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="James Khadka" height="40" width="50" /></a>
 <a href="https://instagram.com/james_khadka__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="James Khadka" height="40" width="50" /></a>
-<a href="https://x.com/c/James_khadka__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="James Khadka" height="40" width="50" /></a>
+<a href="https://x.com/c/iam_jameskhadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="James Khadka" height="40" width="50" /></a>
  <a href="https://github.com/JamesKhadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="James Khadka" height="40" width="50" /></a> 
  <a href="https://kganesh.com.np/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="James Khadka" height="40" width="50" /></a>
 </p>
